@@ -43,20 +43,6 @@ export function ProfileCardInfo() {
       <h5 className="py-2 text-gray-500 dark:text-gray-400">Principal Software Engineer</h5>
       <div className="mb-2 mt-4 space-y-4">
         <div className="flex items-center text-gray-700 dark:text-gray-200">
-          <BriefcaseBusiness strokeWidth={1.5} size={20} />
-          <p className="flex items-center px-2">
-            CTO & Co-Founder @{' '}
-            <a
-              target="_blank"
-              href="https://weaverse.io"
-              rel="noreferrer"
-              className="underline-offset-4 hover:underline"
-            >
-              Weaverse
-            </a>
-          </p>
-        </div>
-        <div className="flex items-center text-gray-700 dark:text-gray-200">
           <MapPin strokeWidth={1.5} size={20} />
           <p className="px-2">Belfast, Ireland</p>
         </div>

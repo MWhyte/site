@@ -1,7 +1,7 @@
 export const SITE_METADATA = {
   title: `mwhyte.dev - software engineering blog`,
   author: 'Michael Whyte',
-  headerTitle: `mwhyte.dev blog`,
+  headerTitle: `mwhyte.dev`,
   description:
     'Here, I share my thoughts, tips and experiences on software development, methodologies, design patterns, and best practices. I aim to help software engineers of all levels improve their skills and knowledge.',
   language: 'en-us',
