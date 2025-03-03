@@ -1,25 +1,28 @@
 export const SITE_METADATA = {
-  title: `Leo's dev blog – stories, insights, and ideas`,
-  author: 'Leo Huynh',
-  headerTitle: `Leo's dev blog`,
+  title: `mwhyte.dev - software engineering blog`,
+  author: 'Michael Whyte',
+  headerTitle: `mwhyte.dev blog`,
   description:
-    'A personal space on the cloud where I document my programming journey, sharing lessons, insights, and resources for fellow developers.',
+    'Here, I share my thoughts, tips and experiences on software development, methodologies, design patterns, and best practices. I aim to help software engineers of all levels improve their skills and knowledge.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://www.leohuynh.dev',
-  siteRepo: 'https://github.com/hta218/leohuynh.dev',
+  siteUrl: 'https://www.mwhyte.dev',
+  siteRepo: 'https://github.com/MWhyte',
+
+  // TODO HERE - Update the following values to match your site
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.jpg`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.jpeg`,
-  email: 'contact@leohuynh.dev',
-  github: 'https://github.com/hta218',
-  x: 'https://x.com/hta218_',
-  facebook: 'https://facebook.com/hta218',
-  youtube: 'https://www.youtube.com/@hta218_',
-  linkedin: 'https://www.linkedin.com/in/hta218',
-  threads: 'https://www.threads.net/hta218_',
-  instagram: 'https://www.instagram.com/hta218_',
+
+  // DONE
+  email: 'mwhyte_dev@gmail.com',
+  github: 'https://github.com/MWhyte',
+  x: 'https://x.com/mwhyte_dev',
+  youtube: 'https://www.youtube.com/@mwhyte_dev',
+  linkedin: 'https://www.linkedin.com/in/mrmwhyte',
   locale: 'en-US',
   stickyNav: true,
+
+  // TODO HERE - Update the following values to match your site
   goodreadsBookshelfUrl: 'https://www.goodreads.com/review/list/179720035-leo-huynh',
   goodreadsFeedUrl: 'https://www.goodreads.com/review/list_rss/179720035',
   imdbRatingsList: 'https://www.imdb.com/user/ur154483197/ratings/?view=grid',

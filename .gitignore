@@ -61,5 +61,5 @@ supabase/
 # ts build
 tsconfig.tsbuildinfo
 
-# webstorm
+# JetBrains IDE's
 .idea/
